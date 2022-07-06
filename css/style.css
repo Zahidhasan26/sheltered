@@ -128,13 +128,31 @@ p {
 }
 .banner {
     background-color: tomato;
-    padding: 40px 0;
+    padding: 50px 0 40px 0;
     color: white;
 }
 .banner-item-number {
     font-size: 36px;
+    line-height: 10px;
+
 }
 .banner-item-text {
+    font-size: 22px;
+    line-height: 10px;
+
+    /* margin-top: -25px; */
+}
+.banner-bottom {
+    margin-top: -40px;
+    border-radius: 5px;
+    background-color: white;
+border-top: 2px solid white;
+border-left: 2px solid tomato;
+border-bottom: 2px solid tomato;
+border-right: 2px solid tomato;
+padding: 5px 20px;
+}
+.item-text {
     font-size: 22px;
 }
 
