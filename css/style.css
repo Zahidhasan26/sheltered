@@ -152,8 +152,8 @@ p {
 .footer {
     background-color: #0B0D17;
     margin-top: 100px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .footer-title {
     color: tomato;
